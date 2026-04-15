@@ -75,7 +75,7 @@ img { max-width: 100%; display: block; }
   align-items: center;
   background:
     linear-gradient(rgba(4,9,16,0.58), rgba(4,9,16,0.80)),
-    url('images/home-hero.jpg') center/cover no-repeat;
+    url('home-hero.jpg') center/cover no-repeat;
 }
 .hero-inner {
   display: grid;
@@ -208,17 +208,17 @@ section { padding: 96px 0; }
   padding: 110px 0 82px;
   background:
     linear-gradient(rgba(6,12,20,0.62), rgba(6,12,20,0.80)),
-    url('images/services-hero.jpg') center/cover no-repeat;
+    url('services-hero.jpg') center/cover no-repeat;
 }
 .page-hero.about-bg {
   background:
     linear-gradient(rgba(6,12,20,0.60), rgba(6,12,20,0.82)),
-    url('images/about-hero.jpg') center/cover no-repeat;
+    url('about-hero.jpg') center/cover no-repeat;
 }
 .page-hero.contact-bg {
   background:
     linear-gradient(rgba(6,12,20,0.62), rgba(6,12,20,0.82)),
-    url('images/contact-hero.jpg') center/cover no-repeat;
+    url('contact-hero.jpg') center/cover no-repeat;
 }
 .image-grid { grid-template-columns: repeat(3, 1fr); }
 .image-grid img {
@@ -241,7 +241,7 @@ section { padding: 96px 0; }
   justify-content: end;
   background:
     linear-gradient(rgba(6,12,20,0.52), rgba(6,12,20,0.82)),
-    url('images/contact-hero.jpg') center/cover no-repeat;
+    url('contact-hero.jpg') center/cover no-repeat;
 }
 .contact-card h3 { margin: 0 0 18px; font-size: 36px; line-height: 1.08; }
 .contact-list { display: grid; gap: 14px; }
@@ -303,7 +303,7 @@ input::placeholder, textarea::placeholder { color: #8fa0b5; }
   text-align: center;
   background:
     linear-gradient(rgba(6,12,20,0.46), rgba(6,12,20,0.66)),
-    url('images/thank-you-bg.jpg') center/cover no-repeat;
+    url('thank-you-bg.jpg') center/cover no-repeat;
 }
 .thank-you-card {
   width: min(100% - 40px, 720px);
