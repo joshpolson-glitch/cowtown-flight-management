@@ -103,7 +103,7 @@ img {
   align-items: center;
   background:
     linear-gradient(rgba(4, 9, 16, 0.58), rgba(4, 9, 16, 0.8)),
-    url('home-hero.jpg') center center / cover no-repeat;
+    url('welcome-header.jpg') center center / cover no-repeat;
 }
 
 .hero-inner {
